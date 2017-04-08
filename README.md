@@ -6,4 +6,4 @@ A small script with bash to change you'r mac address. I create this script becau
 `# bash changeMyMAC.sh -r` for a random mac
 `# bash changeMyMAC.sh -m ff:ff:ff:ff:ff:ff` to change you'r MAC to ff:ff:ff:ff:ff:ff
 `# bash changeMyMAC.sh -p` to change to you'r permanent MAC
-Done!
+# Done!
