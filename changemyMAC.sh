@@ -22,7 +22,7 @@ else
 	elif [[ $1 == '-r' ]]; then
 		newmac=$randmac
 	elif [[ $1 == '-p' ]]; then
-	  newmac='08:ed:b9:1e:ad:5d' #put here you'r MAC addresse
+	  newmac='ff:ff:ff:ff:ff:ff' #put here you'r MAC addresse
 	fi
 fi
 sleep .5s
