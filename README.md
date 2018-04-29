@@ -20,6 +20,7 @@ Usage:
 Random MAC:
 
 `# bash changeMyMAC.sh -r`
+
 Change my MAC to ff:ff:ff:ff:ff:ff
  
 `# bash changeMyMAC.sh -m ff:ff:ff:ff:ff:ff`
